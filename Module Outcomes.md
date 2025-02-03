@@ -23,7 +23,7 @@
 
 #### Learning Outcomes
 ##### - Part 1: Spatial Interaction Models
-Construct a spatial interaction model of flows from a set of origins to a set of destinations in Python.
+- Construct a spatial interaction model of flows from a set of origins to a set of destinations in Python.
 - Calibrate the model using real data.
 - Select the appropriate model and the constraints given data availability and the spatial problem to solve.
 - Be aware of other modelling frameworks, such as ABM and CA.
